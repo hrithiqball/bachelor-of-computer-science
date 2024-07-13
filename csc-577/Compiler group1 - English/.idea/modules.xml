@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compiler group1 - English.iml" filepath="$PROJECT_DIR$/Compiler group1 - English.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sablecc-3.1TD/sablecc-3.1TD.iml" filepath="$PROJECT_DIR$/sablecc-3.1TD/sablecc-3.1TD.iml" />
+    </modules>
+  </component>
+</project>
